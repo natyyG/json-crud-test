@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "27df07c1-244f-4d55-8430-65e7daf1db5c",
+      "name": "Naruto",
+      "disc": "Hidden leave Hokage"
+    },
+    {
+      "id": "5ba90f88-3eb6-4fd6-9075-be1225bad11b",
+      "name": "Luffy",
+      "disc": "King of pirates"
+    },
+    {
+      "id": "1984c9a2-e05b-4aa1-a49f-b755777c212e",
+      "name": "Goku",
+      "disc": "Strongest Syne"
+    }
+  ]
+}
